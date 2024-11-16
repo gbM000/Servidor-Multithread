@@ -1,0 +1,7 @@
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/Servidor.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/connection/Conexao.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/database/ConexaoBD.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/database/ConsultaBD.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/database/InsertBD.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/database/LivroDAO.java
+/home/gabe/Projetos/Java/servidor/src/main/java/trabalho1sd/servidor/model/Livro.java
